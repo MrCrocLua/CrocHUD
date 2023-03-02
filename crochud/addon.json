@@ -1,0 +1,12 @@
+{
+"title" : "CrocHUD Sandbox",
+"type" : "tool",
+"tags" : [ "fun", "cartoon" ],
+"description" : "CrocHUD is a simple Sandbow HUD that overwrites the standard Hl2 Health and Armor  HUD.",
+"ignore" :
+[
+"*.psd",
+"*.vcproj",
+"*.svn"
+]
+}
